@@ -1,0 +1,4 @@
+#Wed Jul 14 22:42:02 WIB 2021
+base.0=/Users/asril/flutter programing/ayo_vaksin_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
